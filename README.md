@@ -11,8 +11,14 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+The plugin help you to swip rating bar using double value(like : 0.1 , 0,5, 1)
+#example
+Rating(functionUpdateRating: (value){},
+            iterativeValue: 1,
+              initialRating: 0,
+              isVertical: Axis.horizontal,
+              itemSize: 5,
+            );
 
 ## Features
 
