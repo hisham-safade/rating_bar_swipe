@@ -25,13 +25,14 @@ The plugin help you to swip rating bar using double value(like : 0.1 , 0,5, 1)
 ## Usage
 
 #example
+```dart
 Rating(functionUpdateRating: (value){},
 iterativeValue: 1,
 initialRating: 0,
 isVertical: Axis.horizontal,
 itemSize: 5,
 );
-
+```
 
 ## Additional information
 
