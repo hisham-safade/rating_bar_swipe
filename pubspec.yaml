@@ -1,7 +1,7 @@
 name: rating_bar_swipe
 description: Rating bar swipe
 version: 0.0.1
-homepage:
+homepage: https://github.com/hisham-safade/rating_bar_swipe
 
 environment:
   sdk: '>=2.19.0 <3.0.0'

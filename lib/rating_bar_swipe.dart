@@ -90,7 +90,7 @@ class _RatingState extends State<Rating> {
                           child: Slider(
                         min: -1,
                         max: 49,
-                        divisions:widget.iterativeValue.toInt() ,// 5 :1, 10 0.5
+                        divisions:5~/widget.iterativeValue ,
                         value: 0,
                         // widget.initialRating,
                         onChangeEnd: (double value) async {},
