@@ -12,13 +12,7 @@ and the Flutter guide for
 -->
 
 The plugin help you to swip rating bar using double value(like : 0.1 , 0,5, 1)
-#example
-Rating(functionUpdateRating: (value){},
-            iterativeValue: 1,
-              initialRating: 0,
-              isVertical: Axis.horizontal,
-              itemSize: 5,
-            );
+
 
 ## Features
 
@@ -26,11 +20,16 @@ TODO: List what your package can do. Maybe include images, gifs, or videos.
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
 ## Usage
 
+#example
+Rating(functionUpdateRating: (value){},
+            iterativeValue: 1,
+              initialRating: 0,
+              isVertical: Axis.horizontal,
+              itemSize: 5,
+            );
+            
 TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder.
 
