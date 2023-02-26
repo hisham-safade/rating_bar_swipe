@@ -16,10 +16,10 @@ The plugin help you to swip rating bar using double value(like : 0.1 , 0,5, 1)
 
 ## Features
 
-![First Way](images/1.4_horizental.jpeg) 
+![First Way](images/1.4_horizontal.jpeg) 
 
 
-![Second Way](images/1.horizental.jpeg) 
+![Second Way](images/1._horizontal.jpeg) 
 ## Getting started
 
 ## Usage
