@@ -16,8 +16,10 @@ The plugin help you to swip rating bar using double value(like : 0.1 , 0,5, 1)
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+![First Way](images/1.4_horizental.jpeg) 
 
+
+![Second Way](images/1.horizental.jpeg) 
 ## Getting started
 
 ## Usage
