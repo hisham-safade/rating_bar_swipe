@@ -1,6 +1,8 @@
 name: rating_bar_swipe
-description: Rating bar swipe
-version: 0.0.1
+description: 'Rating bar swipe is a plugin help you to swip rating bar using double value(like : 0.1 , 0,5, 1)'
+
+
+version: 0.0.2
 homepage: https://github.com/hisham-safade/rating_bar_swipe
 
 environment:
