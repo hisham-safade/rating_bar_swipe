@@ -11,14 +11,13 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-The plugin help you to swip rating bar using double value(like : 0.1 , 0,5, 1)
 [![Pub](https://img.shields.io/pub/v/rating_bar_swipe)](https://img.shields.io/pub/v/rating_bar_swipe) 
 [![License](https://img.shields.io/badge/licence-MIT-orange.svg)](https://github.com/sarbagyastha/flutter_rating_bar/blob/master/LICENSE)
 [![Web Demo](https://img.shields.io/badge/Web-Demo-blueviolet.svg)](https://sarbagyastha.com.np/flutter_rating_bar/)
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/sarbagyastha/flutter_rating_bar.svg)](https://github.com/sarbagyastha/flutter_rating_bar)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hisham-safade/rating_bar_swipe)](https://github.com/sarbagyastha/flutter_rating_bar)
 [![GitHub stars](https://img.shields.io/github/stars/sarbagyastha/flutter_rating_bar.svg?style=social)](https://github.com/sarbagyastha/flutter_rating_bar)
 
-
+The plugin help you to swip rating bar using double value(like : 0.1 , 0,5, 1)
 ## Features
 
 ![First Way](images/1.4_horizontal.jpeg) 
