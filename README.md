@@ -11,7 +11,7 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-[![Pub](https://img.shields.io/pub/v/rating_bar_swipe)(https://img.shields.io/pub/v/rating_bar_swipe) 
+[![Pub](https://img.shields.io/pub/v/rating_bar_swipe)](https://pub.dartlang.org/packages/flutter_rating_bar) 
 [![License](https://img.shields.io/badge/licence-MIT-orange.svg)](https://github.com/sarbagyastha/flutter_rating_bar/blob/master/LICENSE)
 [![Web Demo](https://img.shields.io/badge/Web-Demo-blueviolet.svg)](https://sarbagyastha.com.np/flutter_rating_bar/)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/hisham-safade/rating_bar_swipe)]
